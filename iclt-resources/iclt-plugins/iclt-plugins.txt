@@ -1,0 +1,4 @@
+geo-mashup.zip > geo-mashup/geo-mashup.php
+geo-mashup-custom.zip > geo-mashup-custom/geo-mashup-custom.php
+gallery-metabox.zip >  gallery-metabox/gallery-metabox.php
+wp-lightbox-2.zip > wp-lightbox-2/wp-lightbox-2.php

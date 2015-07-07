@@ -13,6 +13,8 @@ Para poder usar el tema debemos seguir los siguientes pasos.
 
 2. Instalar plugins. Ir a la sección de Plugins y comprobar que se han instalado y activado los siguientes plugins: Gallery Metabox, Geo Mashup, Geo Mashup Custom y WP Lightbox 2. Si no es así, salid y volved a entrar al área de administración de WordPress. Si aún continúa el problema podéis descargaros los plugins desde aquí e instalarlos manualmente.
 
+http://www.jose-fernandez.com.es/wp-content/uploads/2015/06/plugins-ptolomeo.zip
+
 3. Crear páginas y menú. Vamos a crear tres páginas: Inicio, Mapa y Navegar por etiquetas que irán actualizándose automáticamente en tanto en cuanto vayamos incluyendo nuevas entradas. Para cada una de estas páginas usaremos la plantilla (barra lateral derecha del editor de páginas) que se corresponda con el título de la página. Sólo recomiendo añadir contenido a la página llamada Navegar por etiquetas, que será la que permita a los usuarios navegar por la web mediante las esiquetas y campos que usaremos para describir los items que incluyamos en el proyecto. Si queréis añadir más páginas como Quiénes somos o Contactar, hacedlo de la forma habitual en WordPress sin usar ninguna plantilla especial.
 
 Después de haber publicado las páginas, desde el menú Apariencia > Menús se debe crear un menú con enlaces a las páginas creadas anteriormente y en el apartado Gestionar lugares vincular ese menú a la localización Primary Menu.
